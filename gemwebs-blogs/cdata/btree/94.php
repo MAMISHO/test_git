@@ -1,0 +1,2 @@
+<?php die('Direct call - access denied'); ?>
+a:2:{s:5:"ts_pg";a:1:{s:32:"944c1f2c0e9510a5e6a31ebee22b4d2b";s:25:"Programando-para-gem-webs";}s:6:"nts_id";a:1:{s:32:"944c1f2c0e9510a5e6a31ebee22b4d2b";i:1;}}

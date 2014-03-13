@@ -1,0 +1,2 @@
+<?php die('Direct call - access denied'); ?>
+a:1:{s:4:"comm";a:1:{s:32:"3fe41cf7d713c61367f118ee96439efc";a:3:{i:0;a:2:{i:0;s:89:"1394670184:1394675500:/proyectos/gemwebs-blogs/blog-web.php?id=.Programando-para-gem-webs";i:1;s:89:"1394670184:1394679471:/proyectos/gemwebs-blogs/blog-web.php?id=.Programando-para-gem-webs";}i:1;N;i:2;i:2;}}}
