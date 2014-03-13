@@ -624,9 +624,11 @@
                               <a href="#">Link 2</a> | ...
                           </div>
 
-                          <div class="col-md-6 col-sm-6">
+
+
+                          <!--<div class="col-md-6 col-sm-6">
                           <div class="post-format"></div>
-                          <div class="post-content">
+                          <div class="post-content">-->
 
                               <!-- MAIN CONTENT, FIRST -->
                               <div class="pagedata">
@@ -662,8 +664,8 @@
                               <!-- END MAIN CONTENT -->
                               <!--<div style="clear: both"></div>-->
 
-                          </div>
-                        </div>
+                          <!--</div>
+                        </div>-->
                       </div>
                </div>
                <!-- fin del contenido del blog-->
@@ -673,14 +675,14 @@
                 	<div class="row">
                     	
                         <div class="col-md-6 col-sm-6">
-                    		<div class="post-media">
-                    			<div class="image-overlay">
-									<img alt="" src="./css/img/demo/blog/1-medium.jpg" >
-                            		<div class="overlay-fade">
-                            			<a href="blog-single.html" ><i class="icon-overlay fa fa-link"></i></a>
-									</div>
-								</div>
-                    		</div>                        
+                      		<div class="post-media">
+                            <div class="image-overlay">
+            									<img alt="" src="./css/img/demo/blog/1-medium.jpg" >
+                                <div class="overlay-fade">
+                                      <a href="blog-single.html" ><i class="icon-overlay fa fa-link"></i></a>
+              									</div>
+          								  </div>
+                      		</div>                        
                         </div>
                         <!--Contenido del blog-->
 

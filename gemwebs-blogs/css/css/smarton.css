@@ -1894,6 +1894,10 @@ border-color: transparent #e5e5e5 transparent transparent;}
 .post-timeline .post-title{ font-size:24px; margin: 10px 0 20px; padding:0;}
 .post-timeline .post-media{ padding:0; margin-bottom:20px; border:none;}
 .post-timeline .post-content{ padding:0 20px;}
+/*.post-timeline .post-content img{ border: 2px solid olive;}*/
+.imagenes{ text-align: left;float: right;}
+
+.miclase{width: 750px;}
 .post-timeline .link-icon.read-more{ margin-left:20px;}
 .post-format-quote.post-timeline .post-format{ position:relative;}
 .post-format-quote.post-timeline .post-title{ padding-left:70px;}
